@@ -1,0 +1,38 @@
+Goal: exhaustively list all meteor software ressources. If anything is missing by all means please add it here! :-)
+
+Other ressources webpages:
+- IMO webpage: https://www.imo.net/resources/software/
+
+
+Optical recording and detection of meteors
+Windows:
+- FreeTure: https://github.com/fripon/freeture
+- MetRec: http://www.metrec.org/
+- UFOCapture: (not free) http://sonotaco.com/e_index.html
+
+Linux:
+- FreeTure: https://github.com/fripon/freeture
+- ASGARD: not publicly available (R. Weryk, UWO, Canada): http://meteor.uwo.ca/~weryk/asgard/
+- RMS: Croatia Meteor Network: acquisition and detection with Raspberry-pi: https://github.com/CroatianMeteorNetwork/RMS
+
+Radio recording:
+- SpectrumLab: http://www.qsl.net/dl4yhf/spectra1.html#download
+- Colorgramme: http://radio.meteor.free.fr/
+
+
+Organizing meteor data, digging into the data:
+- R: Veljkovic ; https://cran.r-project.org/web/packages/
+- python: CMN CMN_binViewer to organize CAMS data: https://github.com/CroatianMeteorNetwork/cmn_binviewer
+
+
+Computation of 3D-Trajectory and orbital elements
+- Python: FRIPIPE: the FRIPON pipeline: will be made freely pubicly available in early 2018 ; see: www.fripon.org
+- C/C++: Metal (R. Weryk, UWO, Canada): not publicly available ; http://meteor.uwo.ca/~weryk/asgard/metal.html
+- FreeWare: UFOAnalyzer and UFOOrbit: not open source: http://sonotaco.com/soft/e_index.html
+
+Computation of meteorite fall location and strewn field
+- Python: FRIPIPE: the FRIPON pipeline: will be made freely pubicly available in early 2018 ; see: www.fripon.org
+
+
+Miscalenaous codes:
+- Croatia Meteor Network: https://github.com/CroatianMeteorNetwork/CMN-codes
