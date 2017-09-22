@@ -5,3 +5,5 @@ AS of 2017, there are many softwares to process meteor data from optical or radi
 - create an inventory of available softwares
 - put together links to different code
 - directly put some code
+
+If your favorite software or code is not linked here by all means please add it :-)
