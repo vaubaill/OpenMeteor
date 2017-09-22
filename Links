@@ -3,6 +3,8 @@ Goal: exhaustively list all meteor software ressources. If anything is missing b
 Other ressources webpages:
 - IMO webpage: https://www.imo.net/resources/software/
 
+How to setup a multi-station optical meteor station
+- IMO QRicht: https://www.imo.net/resources/software/qricht/
 
 Optical recording and detection of meteors
 Windows:
@@ -27,6 +29,14 @@ Lunar Flash
 Organizing meteor data, digging into the data:
 - R: Veljkovic ; https://cran.r-project.org/web/packages/
 - python: CMN CMN_binViewer to organize CAMS data: https://github.com/CroatianMeteorNetwork/cmn_binviewer
+
+Meteor database:
+- IAU meteor database: http://pallas.astro.amu.edu.pl/~jopek/MDC2007/index.php
+- EDMOND: http://www.daa.fmph.uniba.sk/edmond
+- IMO Databases: https://www.imo.net/resources/databases/
+- SonotaCo: http://sonotaco.jp/doc/SNM/
+- CAMS: http://cams.seti.org/
+- AMS visual witness: http://www.amsmeteors.org/members/imo_view/browse_events/
 
 
 Computation of 3D-Trajectory and orbital elements
